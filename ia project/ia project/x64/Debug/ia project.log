@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\hoxho\source\repos\ia project\ia project\main.cpp(45,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hoxho\source\repos\ia project\ia project\main.cpp(102,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hoxho\source\repos\ia project\ia project\main.cpp(159,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ia project.vcxproj -> C:\Users\hoxho\source\repos\ia project\x64\Debug\ia project.exe
